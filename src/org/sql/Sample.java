@@ -44,6 +44,7 @@ public class Sample {
 			} catch (SQLException e) {
 				e.printStackTrace();
 			}
+			System.out.println("hello");
 		}
 		
 		
